@@ -1,2 +1,2 @@
 # Python-Portfolio
-A portfolio representing my skills
+A portfolio representing my skills.
